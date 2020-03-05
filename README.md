@@ -11,7 +11,7 @@ clone this repository and copy the files in your `$HOME/.config/conky` folder:
 
 ```bash
 git clone https://github.com/Deuchnord/conky.git
-cp conky ~/.config/conky
+cp -r conky ~/.config/conky
 ```
 
 Then start (or restart) Conky. That's it, your minimal configuration is ready!
